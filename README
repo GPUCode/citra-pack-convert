@@ -1,0 +1,6 @@
+Simple utility to convert legacy texture packs to the new hash format
+Usage:
+
+```
+citra-pack-convert <new-stock-dump> <legacy-custom-pack> <output>
+```
